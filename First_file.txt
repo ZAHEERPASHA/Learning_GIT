@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First sample deployment project</h1>
+
+<p>SCM Install team.</p>
+
+</body>
+</html>
